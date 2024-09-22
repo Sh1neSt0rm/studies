@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-    int a, b;
+    int a, c;
     cout << "Input a, b:\n";
     cin >> a;
-    cin >> b;
-    cout << a / b;
+    cin >> c;
+    cout << a / c;
 }
