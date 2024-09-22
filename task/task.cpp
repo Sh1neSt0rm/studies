@@ -8,5 +8,5 @@ int main()
     cout << "Input a, b:\n";
     cin >> a;
     cin >> b;
-    cout << a * b;
+    cout << a / b;
 }
