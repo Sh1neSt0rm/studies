@@ -1,0 +1,7 @@
+task/.vs
+task/task/
+task/x64/
+task/task.sln
+task/task.vcxproj
+task/task.vcxproj.filters
+task/task.vcxproj.user
